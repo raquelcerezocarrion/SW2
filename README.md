@@ -1,6 +1,4 @@
 # SW2
-¡Perfecto! Aquí tienes los apuntes completos listos para copiar y pegar en un `README.md`. Están en formato Markdown (legible y bonito en GitHub, VS Code, etc.).
-
 ---
 
 ````markdown
