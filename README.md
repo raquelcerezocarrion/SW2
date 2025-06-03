@@ -2,10 +2,6 @@
 ---
 
 ````markdown
-# 📘 Apuntes de Consultas MongoDB (según el PDF)
-
-Este resumen contiene todas las consultas y operadores explicados en el PDF, ordenados de más fáciles a más difíciles. Incluye consultas de nivel examen usando solo lo que está permitido.
-
 ---
 
 ## 🟢 NIVEL 1 – CONSULTAS BÁSICAS
