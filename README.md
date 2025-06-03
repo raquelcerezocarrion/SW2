@@ -173,9 +173,6 @@ db.listingsAndReviews.aggregate([
   { $group: { _id: "$address.country", total: { $sum: 1 } } }
 ])
 ```
-
----Perfecto. Aquí tienes una **colección de ejemplos complejos y típicos de examen**, que combinan varios operadores como `$and`, `$or`, `$not`, `$expr`, arrays, dot notation y agregaciones. Todos los ejemplos **se basan únicamente en lo que aparece en tu PDF**, y están pensados para que puedas resolver cualquier consulta difícil que te planteen.
-
 ---
 
 # 💥 CONSULTAS DIFÍCILES COMBINADAS (Nivel Examen)
